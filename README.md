@@ -1,6 +1,7 @@
 # Space Quiz App
 
-![Space Quiz App Screenshot (Placeholder)](placeholder_image_url_or_path)
+![image](https://github.com/user-attachments/assets/e1dba4a4-264f-4e28-b364-4bd838c8277e)
+
 
 ## Description
 
